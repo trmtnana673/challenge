@@ -1,0 +1,5 @@
+寺本奈々　PCのスペック
+
+　　　　OS：Windows 10 Home 64 ビット(10.0,1ビルド14393)
+プロセッサ：Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz (4 CPUs),~2.4GHz
+　　メモリ：8192MB RAM
